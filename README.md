@@ -1,0 +1,2 @@
+# EduBanks
+My first repository
