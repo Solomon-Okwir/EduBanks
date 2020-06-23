@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+    color: chocolate;
+    margin: 16dp;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#title{
+    text-align: center;
+    font-size: 100%;
+    padding: 30dp;
+    margin: 16dp;
+}
+
+#menu{
+    text-align: center;
+    padding: 20dp;
+    color: cornsilk;
+}
+ a{
+    text-align: center;
+    padding: 20dp;
+    background-color: chocolate;
+    color: cornsilk;
+}
